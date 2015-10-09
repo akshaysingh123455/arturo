@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+.coreteam 
+{
+	position:absolute;
+	border:1px solid black;
+	width:90%;
+	left:5%;
+	top:100px;
+	height:400px;
+}
+.contact {
+	position:absolute;
+	top:950px;
+	width:100%;
+	height:1460px;
+	
+	
+}
+.adviser {
+	position:absolute;
+	left:200px;
+	top:550px;
+	width:600px;
+	height:370px;
+}
+
+#contact2,#contact4,#contact6,#contact8  {
+	position:absolute;
+	width:450px;
+	height:300px;
+	left:0px;
+	
+	
+}
+#contact3,#contact5,#contact7,#contact9  {
+	position:absolute;
+	width:450px;
+	height:300px;
+	left:500px;
+	
+	
+}
+#contact2,#contact3  {
+	top:0px;
+}
+#contact4,#contact5  {
+	top:350px;
+}
+#contact6,#contact7  {
+	top:700px;
+}
+#contact8,#contact9 {
+	top:1050px;
+}
